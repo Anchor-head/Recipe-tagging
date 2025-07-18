@@ -1,6 +1,6 @@
 # Recipe tagging system: what does it do?
 
-The purpose of this project is to build a website that allows you to search recipes using a fine-grained multi-tag system that would allow you to filter recipes by multiple criteria simultaneously (e.g. "high protein", "vegan" AND "less than X grams of sugar").
+The purpose of this project is to build a website that allows you to search recipes using a fine-grained multi-tag system; in other words, this site would allow you to filter recipes by multiple specific criteria simultaneously (e.g. "high protein" AND "vegan" AND "gluten-free" AND "less than X grams of sugar").
 
 Surprisingly, such a service does not yet exist as far as I know.
 
